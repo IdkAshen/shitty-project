@@ -1,5 +1,6 @@
 # shitty-project
 a shitty c, project
 
+
 > [!IMPORTANT]
 > I AM NOT RESPONSIBLE FOR ANY TROUBLE YOU GET IN FOR USING THIS REPOSITORY, SO YEA
